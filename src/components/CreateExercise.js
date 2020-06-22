@@ -127,7 +127,6 @@ class CreateExercise extends React.Component {
                         <input type='submit' value='Create Exercise Log' className='btn btn-primary'/>
                     </div>
                 </form>
-                <p>You are on the Create Exercise Component</p>
             </div>
         )
     }
