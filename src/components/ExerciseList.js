@@ -1,14 +1,14 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 
-class EditExercise extends React.Component {
+class ExerciseList extends React.Component {
     render() {
         return (
             <div>
-                <p>You are on the Edit Exercise Component</p>
+                <p>You are on the ExerciseList Component</p>
             </div>
         )
     }
 }
 
-export default EditExercise
+export default ExerciseList
